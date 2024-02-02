@@ -1,0 +1,27 @@
+Data handling
+
+#ways of 'fixing' the data if it contained missing values, also types of missing data
+MCAR
+MAR
+MNAR
+
+#preprocessing
+3 types of values, converting to comatible values for math -> dummy values
+
+Standardizing -> center and scale data before making model
+what / how (also in later lecture)
+centering: remove avg
+Same look, centered on 0
+
+scaling: remove unit, average/stddev
+limits are scaled (up/down), does not change distribution
+
+#after making model
+"Model 1" book 13-16 -> what happened here?
+
+#Cheking the model: R^2 and MSE (mean squared value(?))
+R^2: our model compared to avg value , = 0 means model is as good or bad as using the avg (model values are equal to avg)
+
+
+
+
