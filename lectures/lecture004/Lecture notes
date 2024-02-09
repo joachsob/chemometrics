@@ -19,8 +19,9 @@ limits are scaled (up/down), does not change distribution
 #after making model
 "Model 1" book 13-16 -> what happened here?
 
-#Cheking the model: R^2 and MSE (mean squared value(?))
+#Cheking the model: R^2 and MSE ((root)mean squared value(?))
 R^2: our model compared to avg value , = 0 means model is as good or bad as using the avg (model values are equal to avg)
+R^2 = 0.8 = good model
 
 
 
